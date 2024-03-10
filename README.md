@@ -29,3 +29,6 @@ This repository contains a C++ implementation of a simple hotel management syste
 **Contributions:**
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality and user experience of the hotel management system.
 
+## Author
+- **Zeeshan Ali**
+
