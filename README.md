@@ -25,10 +25,11 @@ This repository contains a C++ implementation of a simple hotel management syste
 2. Compile the C++ code using an appropriate compiler.
 3. Run the executable and follow the on-screen instructions to navigate through the menu options.
 4. Choose between the customer panel and management panel based on your role.
+5. it can provide flexibility for the both side use. So, wise use is preffered.
 
 **Contributions:**
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance the functionality and user experience of the hotel management system.
 
 ## Author
-- **Zeeshan Ali**
+- **Zeeshan Ali** -
 
