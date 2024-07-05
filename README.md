@@ -33,3 +33,6 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 ## Author
 - **Zeeshan Ali** -
 
+Licenced by:
+Zeeshan Ali
+
